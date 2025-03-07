@@ -1,0 +1,3 @@
+# use pre-release version of ucc that has a fix for custom passes
+ucc @ git+https://github.com/unitaryfund/ucc@292-compile-custom-pass
+ipykernel==6.29.5
