@@ -1,6 +1,6 @@
 ## `ucc-demo`
 
-This repository contains an Jupyter notebook demo of the [Unitary Compiler Collection](https://github.com/unitaryfund/ucc).
+This repository contains an Jupyter notebook demo of the [Unitary Compiler Collection](https://github.com/unitaryfoundation/ucc).
 
 ## Setup Instructions
 
